@@ -113,6 +113,17 @@
   margin-left: 0.5rem;
 }
 
+.btn {
+  padding: 5px 10px;
+  background-color: #0070f3;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  color: #fff;
+  line-height: 1.5;
+  cursor: pointer;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
